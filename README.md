@@ -4,9 +4,9 @@ The key coefficient arrays for constructing Hermite-Lagrange interpolation basis
 
 ---
 `Hermite-T16.dat` and `Hermite-T32.dat` store the arrays of:</br>
-H = 𝛟ᵀ [𝚽  𝚽<sub>ξ</sub>  𝚽<sub>η</sub>]⁻ᵀ</br>
+**H** = 𝛟ᵀ [𝚽  𝚽<sub>ξ</sub>  𝚽<sub>η</sub>]⁻ᵀ</br>
 where:
-- H: The coefficient array of interpolation basis functions
+- **H**: The coefficient array of interpolation basis functions
 - 𝛟: The vector of basis functions  
 - 𝚽: The Hermite interpolation condition matrix
 - 𝚽<sub>ξ</sub>, 𝚽<sub>η</sub>: The partial derivative matrices of Φ with respect to ξ and η coordinates
