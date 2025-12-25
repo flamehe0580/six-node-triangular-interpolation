@@ -22,3 +22,6 @@ where:
 - 𝚽: The Hermite interpolation condition matrix
 
 `Lagrange-T16.dat` and `Lagrange-T32.dat` consist of floating-point numbers with 16 and 32 significant digits of precision, respectively.
+
+---
+`six node triangular coeff formulation.nb` is the mathematica notebook for generating the above constant matices.
